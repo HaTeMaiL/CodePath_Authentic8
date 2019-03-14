@@ -16,8 +16,6 @@ Time spent: **7** hours spent in total
   - While taking note of the other information, the Attacker IPs remained the same with India replacing Taiwan after refreshing the page while the number of attacks increased. However, it showed that the top five attacked ports where the following in this order: 8088 (HTTP), 23 (Telnet), 110 (POP3), 445 (Microsoft-DS), 5060(SIP). This meant that most went through the pcap protocol, then the smbd protocol and SipCall/SipSession protocol.
   
   ![Attacks](https://github.com/HaTeMaiL/CodePath_Authentic8/blob/master/Honeypot/mhm-honeypot-1_attacks.PNG)
-* Any unresolved questions raised by the data collected
-  - 
 
 ## Notes
 
