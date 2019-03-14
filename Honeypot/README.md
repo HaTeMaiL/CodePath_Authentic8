@@ -9,7 +9,7 @@ Time spent: **7** hours spent in total
 * Which Honeypot(s) you deployed
   - I deployed the first honeypot, the honeypot directed at http through Dionaea.
 * Any issues you encountered
-  - There were countless issues encountered using the command line on the host machine rather than the GCP Dashboard. In some cases, a command had to to run two or three times before it didn't provide an error. In other cases, the only way to progress was to enter the command.
+  - There were countless issues encountered using the command line on the host machine rather than the GCP Dashboard. In some cases, a command had to to run two or three times before it didn't provide an error. In other cases, the only way to progress was to enter the command through the GCP console.
   - My biggest problem came in that with multiple tries with the first mhm-admin vm I made. I couldn't get a honeypot running that would be attacked. I consistently made honeypot VMs that had no attacks. Ultimately, I had to start from square one and build the system all over again and not just new VMs.
 * A summary of the data collected: number of attacks, number of malware samples, etc.
   - At the time of saving the JSON file, there were 1104 attacks with a majority coming from the United States and then Vietnam, the Netherlands, and Taiwan/China.
