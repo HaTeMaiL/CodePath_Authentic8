@@ -7,4 +7,4 @@ Labs and Assignments for Facebook's CodePath course administered through CSUSB's
 * Week's 8 assignment is in folder "LivePenTest"
   - This assignment is designed to find and exploit the vulnerabilities on three different versions of a Live Target (Globitek website: blue, green, and red).
 * Week's 9 assignment is in folder "Honeypot"
-  - This assignment is designed to ...
+  - This assignment is designed to setup a honeypot and intercept some attempted attacks in the wild.
